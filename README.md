@@ -5,7 +5,6 @@ very helpful to prepare time table of
 college/school automatically 
 with the help of a
 randomized combination of subjects and days.This 
-
 saves a lot more time of admin which prepares time
 table manually.
 The user has to fill data like add 
